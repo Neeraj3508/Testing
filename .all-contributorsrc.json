@@ -1,10 +1,10 @@
 {
-  "files": ["contributors.md"],
-  "imageSize": 100,
-  "contributorsPerLine": 7,
+  "files": ["README.md"],
+  "imageSize": 50,
+  "contributorsPerLine": 10,
   "contributorsSortAlphabetically": false,
   "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
-  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
+  "contributorTemplate": "<a href=\"<%= https://github.com/Neeraj3508/Testing/graphs/contributors %>\"><img src=\"<%= contributor.avatar_url %>\" style="border-radius:50%;" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
   "types": {
     "custom": {
       "symbol": "🔭",
